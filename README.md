@@ -1,16 +1,3 @@
-
-
-## UnitMan
-
-[UnitMan](https://mbeloshapkin.github.io/UnitMan) is simple and easy to use API for UOM conversion in C#. 
-
-* [Project page](https://mbeloshapkin.github.io/UnitMan)
-
-## Inverse Matrices in Nim
-
-[Nim](https://nim-lang.org/) is relatively new programming language. I not found free code for linear algebra in Nim and wrote it by myself. LU decomposition and QR decomposition implemented. 
-
-* [Source Code](https://github.com/mbeloshapkin/InvMatrix)
-
+[Site](https://mbeloshapkin.github.io) Just site
 
 
